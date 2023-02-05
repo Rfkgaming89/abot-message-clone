@@ -9,3 +9,5 @@ for example: `abot copy #drafts-admin-only #announcements`
 
 ## Permissions
 Only server administrators are allowed to use this bot.
+
+`Edit Main.kt with bot token & set owners id `
